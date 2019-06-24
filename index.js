@@ -7,5 +7,6 @@ let totalBatteries = batteryBatches.reduce(function(total, currentValue){
   return total + currentValue 
   
 })
+  return totalBatteries 
   
 }
